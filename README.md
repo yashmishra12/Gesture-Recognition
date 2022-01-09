@@ -1,6 +1,6 @@
 # Gesture-Recognition
 
-# Problem Statement
+## Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
@@ -11,4 +11,8 @@ Left swipe: 'Jump' backwards 10 seconds
 Right swipe: 'Jump' forward 10 seconds  
 Stop: Pause the movie
 
-Data: [Source](https://drive.google.com/drive/folders/1W5c2A820-d6bErcbBcq2MTsoNk9SCWvw?usp=sharing)
+## Data: 
+[Source](https://drive.google.com/drive/folders/1W5c2A820-d6bErcbBcq2MTsoNk9SCWvw?usp=sharing)
+
+## Note:
+For more details please check-out the write up uploaded in PDF format. 
